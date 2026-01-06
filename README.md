@@ -49,6 +49,6 @@ Where gradients are computed manually.
 
 ```bash
 python linear_regression.py
-
+```
 Author: Ishaan Sharma
 
